@@ -22,6 +22,6 @@
 - 当出现“If the gateway is supervised, stop it with: openclaw gateway stop” 则需要重新点击启动
 
 ## 截图
-[!控制按钮页面](images/win-01.png)
+![控制按钮页面](images/win-01.png)
 
-[!配置修改页面](images/win-02.png)
+![配置修改页面](images/win-02.png)
